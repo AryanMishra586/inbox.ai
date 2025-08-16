@@ -30,7 +30,7 @@ Before setting up the tool, make sure you have:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/Aditya8840/Inbox.ai.git
+   git clone https://github.com/AryanMishra586/inbox.ai.git
    ```  
 
 2. **Navigate to the Project Directory**:  
